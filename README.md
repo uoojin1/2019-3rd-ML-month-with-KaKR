@@ -1,4 +1,5 @@
 # 2019-3rd-ML-month-with-KaKR
+## [View the work](https://github.com/uoojin1/2019-3rd-ML-month-with-KaKR/blob/master/main.ipynb)
 
 ## Car Model Classification Problem
 
